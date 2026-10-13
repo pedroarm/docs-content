@@ -22,6 +22,7 @@ description: Checklist para deixar tudo pronto antes do culto.
 
 - Mudanças na branch `main` aparecem no site em segundos.
 - Para revisar antes de publicar, crie uma branch e abra `/preview/nome-da-branch` no site.
+- Depois de publicar, abra a página no site e confira se ficou como esperado.
 
 ## Componentes
 
