@@ -1,0 +1,12 @@
+{
+  "title": "Som",
+  "description": "Mesa, microfones, monitores e PA.",
+  "icon": "Volume2",
+  "root": true,
+  "pages": [
+    "index",
+    "procedimentos",
+    "problemas",
+    "equipamentos"
+  ]
+}

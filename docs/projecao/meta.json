@@ -1,0 +1,12 @@
+{
+  "title": "Projeção",
+  "description": "Letras, slides, telões e software de projeção.",
+  "icon": "Presentation",
+  "root": true,
+  "pages": [
+    "index",
+    "procedimentos",
+    "problemas",
+    "equipamentos"
+  ]
+}

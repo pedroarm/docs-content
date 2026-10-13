@@ -1,0 +1,12 @@
+{
+  "title": "Iluminação",
+  "description": "Mesa de luz, refletores e cenas.",
+  "icon": "Lightbulb",
+  "root": true,
+  "pages": [
+    "index",
+    "procedimentos",
+    "problemas",
+    "equipamentos"
+  ]
+}

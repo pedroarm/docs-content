@@ -1,0 +1,12 @@
+{
+  "title": "Onboarding",
+  "description": "Comece aqui: como a equipe funciona e seus primeiros passos.",
+  "icon": "GraduationCap",
+  "root": true,
+  "pages": [
+    "index",
+    "como-funciona",
+    "primeiro-culto",
+    "como-contribuir"
+  ]
+}
