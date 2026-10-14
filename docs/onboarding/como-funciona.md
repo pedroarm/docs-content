@@ -5,11 +5,17 @@ description: Áreas, papéis, quem decide o quê e como nos comunicamos.
 
 ## Áreas
 
-| Área | O que faz | Onde estamos |
-| --- | --- | --- |
-| Som | Mesa, microfones, retornos e PA | Caminhando para uma base sólida |
-| Projeção | Letras, slides e telões | Funciona, mas ainda no básico |
-| Iluminação | Mesa de luz, refletores e cenas | Começando, com muito para crescer |
+| Área | O que faz |
+| --- | --- |
+| Som | Mesa, microfones, retornos e PA |
+| Projeção | Letras, slides e telões |
+| Iluminação | Mesa de luz, refletores e cenas |
+
+### Onde estamos
+
+- **Som** está caminhando para uma base sólida.
+- **Projeção** funciona, mas ainda no básico.
+- **Iluminação** está começando, com muito para crescer.
 
 Nossa prioridade agora é consolidar essas três áreas. Uma área está consolidada quando tem gente suficiente para revezar, procedimentos escritos neste site e o mesmo padrão de qualidade em todo culto, não importa quem esteja escalado.
 
