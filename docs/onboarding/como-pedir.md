@@ -1,6 +1,6 @@
 ---
 title: Como pedir algo à técnica
-description: Para outros ministérios: como e até quando enviar pedidos para o culto.
+description: "Para outros ministérios: como e até quando enviar pedidos para o culto."
 ---
 
 Esta página é para os outros ministérios da igreja: louvor, pastoral, comunicação, infantil e eventos. Ela explica como pedir à equipe técnica algo para um culto ou evento.

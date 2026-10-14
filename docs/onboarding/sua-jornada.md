@@ -1,6 +1,6 @@
 ---
 title: Sua jornada
-description: Do apoio à liderança: como você cresce na equipe.
+description: "Do apoio à liderança: como você cresce na equipe."
 ---
 
 Ninguém nasce sabendo. Todo mundo aqui começou do zero, e o que mais importa é a vontade de servir. Este é o caminho de quem entra na equipe.

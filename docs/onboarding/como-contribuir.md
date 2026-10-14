@@ -100,5 +100,6 @@ Coloque a imagem em uma pasta `img` ao lado da página e use um caminho relativo
 
 ## Cuidados
 
+- Se o título ou a descrição tiver dois-pontos, coloque o texto entre aspas, como em `description: "Do apoio à liderança: como crescer"`. Sem as aspas, o começo do arquivo aparece como texto na página.
 - Os caracteres `<` e `{` têm significado especial. Para usá-los no texto, coloque-os entre crases, como em `` `<` ``.
 - Nunca escreva senhas, chaves de transmissão ou outros segredos: este conteúdo é público.
