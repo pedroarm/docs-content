@@ -5,8 +5,14 @@
   "root": true,
   "pages": [
     "index",
+    "por-que-servimos",
     "como-funciona",
+    "escala-e-combinados",
+    "sua-jornada",
     "primeiro-culto",
+    "quando-algo-da-errado",
+    "cuidado-e-pausas",
+    "como-pedir",
     "como-contribuir"
   ]
 }
